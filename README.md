@@ -1,6 +1,6 @@
 🛒 Java Point of Sale (POS) System
 
-A desktop-based Point of Sale (POS) system built with Java using Eclipse IDE. This project simulates a simple retail store checkout process, managing products, inventory, sales, and generating receipts.
+A desktop-based Point of Sale (POS) system built with Java using Eclipse IDE. This project simulates a simple retail store checkout process, managing products, inventory, sales, and end of the day cash report.
 
 
 📋 Features
